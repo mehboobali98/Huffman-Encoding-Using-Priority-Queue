@@ -17,5 +17,6 @@ The detailed proof is given the Proof.pdf file.
 📦Huffman-Encoding-Using-Priority-Queue
  ┣ 📜CMakeLists.txt
  ┣ 📜main.cpp
+ ┣ 📜Proof.pdf
  ┗ 📜README.md
 </pre>
